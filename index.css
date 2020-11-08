@@ -1,0 +1,49 @@
+body {
+    position: relative;
+    overflow-y: auto;
+}
+
+nav.navbar {
+    background-color: white !important;
+}
+
+#nvIN {
+    color: gray;
+}
+#nvPC {
+    color: black;
+}
+#nvXB {
+    color: green;
+}
+#nvPS {
+    color: mediumblue;
+}
+#nvNI {
+    color: red;
+}
+
+#main{
+    background-color: #f4f5ff;
+    color: black;
+}
+
+#pc{
+    background-color: #f4f5ff;
+    color: black;
+}
+
+#xbox{
+    background-color: #f4f5ff;
+    color: black;
+}
+
+#ps{
+    background-color: #f4f5ff;
+    color: black;
+}
+
+#nintendo{
+    background-color: #f4f5ff;
+    color: black;
+}
